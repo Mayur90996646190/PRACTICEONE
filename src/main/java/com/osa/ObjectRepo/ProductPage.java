@@ -1,5 +1,10 @@
 package com.osa.ObjectRepo;
 
-public class ProductPage {
+import org.testng.annotations.Test;
 
+public class ProductPage {
+	@Test
+	public void prductpage() {
+		System.out.println("from prduct page");
+	}
 }
