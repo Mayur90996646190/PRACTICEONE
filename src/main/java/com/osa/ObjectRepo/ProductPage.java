@@ -7,4 +7,8 @@ public class ProductPage {
 	public void prductpage() {
 		System.out.println("from prduct page");
 	}
+	@Test
+	public void prductpage1() {
+		System.out.println("from prduct page");
+	}
 }
