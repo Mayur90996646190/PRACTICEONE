@@ -9,4 +9,11 @@ public class ProductPageTest2 {
 	{
 		System.out.println(" From product page test 2");
 	}
+	
+
+	@Test
+	public void productPageTest3()
+	{
+		System.out.println(" From product page test 2");
+	}
 }
